@@ -1,0 +1,1 @@
+"d:\Users\Mark\GoogleDrive\Retro Stuff\ZX Spectrum\06 - Development\Assemblers\pasmo-0.5.3\pasmo.exe" -v --tapbas MontyHall.asm MontyHall.tap
